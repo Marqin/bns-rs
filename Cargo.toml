@@ -1,0 +1,8 @@
+[package]
+name = "bns"
+version = "0.1.0"
+authors = ["Hubert Jarosz <marqin.pl@gmail.com>"]
+
+[dependencies]
+curl = "^0.3.5"
+scraper = "^0.4.0"
