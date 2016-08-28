@@ -3,6 +3,11 @@ name = "bns"
 version = "0.1.0"
 authors = ["Hubert Jarosz <marqin.pl@gmail.com>"]
 
+description = "Rust library that web scraps character information from certain MMO."
+repository = "https://github.com/Marqin/bns-rs"
+readme = "README.md"
+license = "Zlib"
+
 [dependencies]
 curl = "^0.3.5"
 scraper = "^0.4.0"
